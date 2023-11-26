@@ -23,7 +23,7 @@ p {
   cursor: pointer;
 }
 
-@media only screen and (max-width: 365px) {
+@media only screen and (max-width: 491px) {
   .harcama_miktari{
     font-size: 10px;
    
